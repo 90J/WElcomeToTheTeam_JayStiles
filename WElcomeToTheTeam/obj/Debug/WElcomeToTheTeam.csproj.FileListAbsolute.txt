@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\obj\Debug\WElcomeToTheTeam.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\obj\Debug\WElcomeToTheTeam.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\bin\Debug\WElcomeToTheTeam.exe.config
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\bin\Debug\WElcomeToTheTeam.exe
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\bin\Debug\WElcomeToTheTeam.pdb
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\obj\Debug\WElcomeToTheTeam.exe
+C:\Users\jstiles\source\repos\WElcomeToTheTeam\WElcomeToTheTeam\obj\Debug\WElcomeToTheTeam.pdb
